@@ -1,0 +1,9 @@
+.container {
+  width: 280px;
+  color: #314d3e;
+}
+
+#vaadin-app {
+    width: 800px;
+    height: 400px;
+}
